@@ -29,9 +29,9 @@
       </button>
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav text-uppercase ml-auto">
-          <!-- <li class="nav-item">
-            <a class="nav-link js-scroll-trigger" href="index.php?p=services">Services</a>
-          </li> -->
+          <li class="nav-item">
+            <a class="nav-link js-scroll-trigger" href="index.php">Home</a>
+          </li>
           <li class="nav-item">
             <a class="nav-link js-scroll-trigger" href="index.php?p=portfolio">Portfolio</a>
           </li>
@@ -60,12 +60,12 @@
 
 
   <!-- Footer-->
-  <footer class="footer py-4">
+  <footer class="footer py-4 ">
     <div class="container">
       <div class="row align-items-center">
         <div class="col-lg-4 text-lg-left">Copyright © PRIMA JAYA CANOPY 2020</div>
         <div class="col-lg-4 my-3 my-lg-0">
-          <a class="btn btn-dark btn-social mx-2" href="#!"><i class="fab fa-whatsapp"></i></a>
+          <a class="btn btn-dark btn-social mx-2" href="https://web.whatsapp.com/send?phone=6281299245776&text=Saya%20Tertarik%20%0D%0ADengan%20Layanan%20Prima%20Jaya%20Canopy"><i class="fab fa-whatsapp"></i></a>
           <a class="btn btn-dark btn-social mx-2" href="#!"><i class="fab fa-twitter"></i></a>
           <a class="btn btn-dark btn-social mx-2" href="#!"><i class="fab fa-facebook-f"></i></a>
           <a class="btn btn-dark btn-social mx-2" href="#!"><i class="fab fa-linkedin-in"></i></a>
@@ -75,6 +75,9 @@
           <a href="#!">Terms of Use</a>
         </div>
       </div>
+      <div class="row col-lg-4 ">Head Office : BSD CITY</div>
+      <div class="row col-lg-4 ">Branch Office : Cinere Depok</div>
+      <div class="row col-lg-4 ">Branch Office : Cimanggu Bogor</div>
     </div>
   </footer>
   <!-- Bootstrap core JS-->

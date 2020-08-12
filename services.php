@@ -4,7 +4,7 @@
     <div class="text-center">
       <h2 class="section-heading text-uppercase">Services</h2>
       <h3 class="section-subheading text-muted">
-        Lorem ipsum dolor sit amet consectetur.
+        Layanan yang kami tawarkan :
       </h3>
     </div>
     <div class="row text-center mt-5 mb-5">
@@ -37,7 +37,7 @@
           <i class="fas fa-circle fa-stack-2x text-primary"></i>
           <i class="fas fa-landmark fa-stack-1x fa-inverse"></i>
         </span>
-        <h4 class="my-3">Pagar Rumah</h4>
+        <h4 class="my-3">Plafon</h4>
         <p class="text-muted">
           Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima
           maxime quam architecto quo inventore harum ex magni, dicta

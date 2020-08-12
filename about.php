@@ -4,8 +4,9 @@
         <div class="text-center">
           <h2 class="section-heading text-uppercase">About</h2>
           <h3 class="section-subheading text-muted">
-            Lorem ipsum dolor sit amet consectetur.
+            Tentang Kami
           </h3>
+          <i class="fa fa-twitter"></i>
         </div>
         <ul class="timeline">
           <li>
@@ -19,10 +20,8 @@
               </div>
               <div class="timeline-body">
                 <p class="text-muted">
-                  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt
-                  ut voluptatum eius sapiente, totam reiciendis temporibus qui
-                  quibusdam, recusandae sit vero unde, sed, incidunt et ea quo
-                  dolore laudantium consectetur!
+                  Prima Jaya Canopy Merupakan Spesialis pembuatan dan pemasangan Kanopi. Kami mempunyai tenaga ahli dan profesional dan tentunya sudah berpengalaman dalam membuat kanopi dengan berbagai bahan, misalnya bahan rangka kanopi baja ringan (galvalum) yang dikenal kokoh, ringan dan anti karat, bahan kayu dll.
+                  Untuk pemasangan, kami memiliki tim handal yang sudah berpengalaman cukup lama dalam bidang pemasangan kanopi.
                 </p>
               </div>
             </div>
@@ -34,14 +33,11 @@
             <div class="timeline-panel">
               <div class="timeline-heading">
                 <h4>2016 - Sekarang</h4>
-                <h4 class="subheading">An Agency is Born</h4>
+                <h4 class="subheading">Menambah Jasa baru yaitu plafon dan renovasi rumah</h4>
               </div>
               <div class="timeline-body">
                 <p class="text-muted">
-                  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt
-                  ut voluptatum eius sapiente, totam reiciendis temporibus qui
-                  quibusdam, recusandae sit vero unde, sed, incidunt et ea quo
-                  dolore laudantium consectetur!
+                  Prima Jaya Canpoy melebarkan sayap dengan bertambahnya anggota dan kebutuhan terkait renovasi rumah dan plafon , prima jaya hadir sebagai solusi terbaik untuk kebutuhan anda.
                 </p>
               </div>
             </div>

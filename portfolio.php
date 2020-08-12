@@ -4,13 +4,13 @@
         <div class="text-center">
           <h2 class="section-heading text-uppercase">Portfolio</h2>
           <h3 class="section-subheading text-muted">
-            Lorem ipsum dolor sit amet consectetur.
+            Berikut ini project canopy, plafon dan renovasi rumah yang pernah kami kerjakan :
           </h3>
         </div>
         <div class="row">
           <div class="col-lg-4 col-sm-6 mb-4">
             <div class="portfolio-item">
-              <a class="portfolio-link" data-toggle="modal" href="#portfolioModal1">
+              <a class="portfolio-link" data-toggle="modal">
                 <div class="portfolio-hover">
                   <div class="portfolio-hover-content">
                     <i class="fas fa-plus fa-3x"></i>
@@ -21,14 +21,14 @@
               <div class="portfolio-caption">
                 <div class="portfolio-caption-heading">Project</div>
                 <div class="portfolio-caption-subheading text-muted">
-                  Lorem ipsum, dolor sit amet consectetur adipisicing elit. Molestias delectus magni sapiente atque sunt sequi saepe voluptatem voluptate blanditiis ducimus illo deserunt voluptatum tempore veritatis minus, exercitationem totam labore. Repellendus.
+
                 </div>
               </div>
             </div>
           </div>
           <div class="col-lg-4 col-sm-6 mb-4">
             <div class="portfolio-item">
-              <a class="portfolio-link" data-toggle="modal" href="#portfolioModal2">
+              <a class="portfolio-link" data-toggle="modal">
                 <div class="portfolio-hover">
                   <div class="portfolio-hover-content">
                     <i class="fas fa-plus fa-3x"></i>
@@ -39,14 +39,14 @@
               <div class="portfolio-caption">
                 <div class="portfolio-caption-heading">Project 2</div>
                 <div class="portfolio-caption-subheading text-muted">
-                  Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quibusdam ipsam fugiat neque illum. Qui, corrupti quae voluptatum dolorum alias est non, voluptatibus neque autem consequuntur odio nisi libero iure eligendi.
+
                 </div>
               </div>
             </div>
           </div>
           <div class="col-lg-4 col-sm-6 mb-4">
             <div class="portfolio-item">
-              <a class="portfolio-link" data-toggle="modal" href="#portfolioModal3">
+              <a class="portfolio-link" data-toggle="modal">
                 <div class="portfolio-hover">
                   <div class="portfolio-hover-content">
                     <i class="fas fa-plus fa-3x"></i>
@@ -57,14 +57,14 @@
               <div class="portfolio-caption">
                 <div class="portfolio-caption-heading">Project 3</div>
                 <div class="portfolio-caption-subheading text-muted">
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit. Laborum sequi odio dolorem voluptatem illum, corrupti omnis nisi perspiciatis earum delectus enim quas iure corporis asperiores. Blanditiis veritatis quasi ab mollitia.
+
                 </div>
               </div>
             </div>
           </div>
           <div class="col-lg-4 col-sm-6 mb-4 mb-lg-0">
             <div class="portfolio-item">
-              <a class="portfolio-link" data-toggle="modal" href="#portfolioModal4">
+              <a class="portfolio-link" data-toggle="modal">
                 <div class="portfolio-hover">
                   <div class="portfolio-hover-content">
                     <i class="fas fa-plus fa-3x"></i>
@@ -75,32 +75,32 @@
               <div class="portfolio-caption">
                 <div class="portfolio-caption-heading">Project 4</div>
                 <div class="portfolio-caption-subheading text-muted">
-                  Lorem ipsum dolor sit amet consectetur, adipisicing elit. Incidunt cum necessitatibus dolorum vero eos deserunt! Eveniet iste vitae dolor ex nulla maxime delectus harum. Nihil nostrum fugit illo officiis ab.
+
                 </div>
               </div>
             </div>
           </div>
           <div class="col-lg-4 col-sm-6 mb-4 mb-sm-0">
             <div class="portfolio-item">
-              <a class="portfolio-link" data-toggle="modal" href="#portfolioModal5">
+              <a class="portfolio-link" data-toggle="modal">
                 <div class="portfolio-hover">
                   <div class="portfolio-hover-content">
                     <i class="fas fa-plus fa-3x"></i>
                   </div>
                 </div>
-                <img class="img-fluid" src="assets/img/portfolio/canopy13.jpeg" alt="" />
+                <img class="img-fluid" src="assets/img/portfolio/canopy17.jpeg" alt="" />
               </a>
               <div class="portfolio-caption">
                 <div class="portfolio-caption-heading">Project 5</div>
                 <div class="portfolio-caption-subheading text-muted">
-                  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquid officiis praesentium suscipit eum tenetur, quia, enim repellendus recusandae est ipsum ex nihil dolores sapiente voluptas. Alias quod voluptate cum consectetur.
+
                 </div>
               </div>
             </div>
           </div>
           <div class="col-lg-4 col-sm-6">
             <div class="portfolio-item">
-              <a class="portfolio-link" data-toggle="modal" href="#portfolioModal6">
+              <a class="portfolio-link" data-toggle="modal">
                 <div class="portfolio-hover">
                   <div class="portfolio-hover-content">
                     <i class="fas fa-plus fa-3x"></i>
@@ -111,14 +111,306 @@
               <div class="portfolio-caption">
                 <div class="portfolio-caption-heading">Project 6</div>
                 <div class="portfolio-caption-subheading text-muted">
-                  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Hic nihil nemo aliquam. Nisi incidunt molestiae quis culpa dolores amet nesciunt, iusto aliquid praesentium quod voluptas dolore. Nostrum nesciunt magnam atque.
+
                 </div>
               </div>
             </div>
           </div>
+          <div class="col-lg-4 col-sm-6 mb-4 mb-sm-0">
+            <div class="portfolio-item">
+              <a class="portfolio-link" data-toggle="modal">
+                <div class="portfolio-hover">
+                  <div class="portfolio-hover-content">
+                    <i class="fas fa-plus fa-3x"></i>
+                  </div>
+                </div>
+                <img class="img-fluid" src="assets/img/portfolio/canopy15.jpeg" alt="" />
+              </a>
+              <div class="portfolio-caption">
+                <div class="portfolio-caption-heading">Project 7</div>
+                <div class="portfolio-caption-subheading text-muted">
+
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-4 col-sm-6 mb-4 mb-sm-0">
+            <div class="portfolio-item">
+              <a class="portfolio-link" data-toggle="modal">
+                <div class="portfolio-hover">
+                  <div class="portfolio-hover-content">
+                    <i class="fas fa-plus fa-3x"></i>
+                  </div>
+                </div>
+                <img class="img-fluid" src="assets/img/portfolio/canopy18.jpeg" alt="" />
+              </a>
+              <div class="portfolio-caption">
+                <div class="portfolio-caption-heading">Project 8</div>
+                <div class="portfolio-caption-subheading text-muted">
+
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-4 col-sm-6 mb-4 mb-sm-0">
+            <div class="portfolio-item">
+              <a class="portfolio-link" data-toggle="modal">
+                <div class="portfolio-hover">
+                  <div class="portfolio-hover-content">
+                    <i class="fas fa-plus fa-3x"></i>
+                  </div>
+                </div>
+                <img class="img-fluid" src="assets/img/portfolio/canopy13.jpeg" alt="" />
+              </a>
+              <div class="portfolio-caption">
+                <div class="portfolio-caption-heading">Project 9</div>
+                <div class="portfolio-caption-subheading text-muted">
+
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-4 col-sm-6 mb-4 mb-sm-0">
+            <div class="portfolio-item">
+              <a class="portfolio-link" data-toggle="modal">
+                <div class="portfolio-hover">
+                  <div class="portfolio-hover-content">
+                    <i class="fas fa-plus fa-3x"></i>
+                  </div>
+                </div>
+                <img class="img-fluid" src="assets/img/portfolio/canopy16.jpeg" alt="" />
+              </a>
+              <div class="portfolio-caption">
+                <div class="portfolio-caption-heading">Project 10</div>
+                <div class="portfolio-caption-subheading text-muted">
+
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-4 col-sm-6 mb-4 mb-sm-0">
+            <div class="portfolio-item">
+              <a class="portfolio-link" data-toggle="modal">
+                <div class="portfolio-hover">
+                  <div class="portfolio-hover-content">
+                    <i class="fas fa-plus fa-3x"></i>
+                  </div>
+                </div>
+                <img class="img-fluid" src="assets/img/portfolio/plafon1.jpeg" alt="" />
+              </a>
+              <div class="portfolio-caption">
+                <div class="portfolio-caption-heading">Project Plafon</div>
+                <div class="portfolio-caption-subheading text-muted">
+
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-4 col-sm-6 mb-4 mb-sm-0">
+            <div class="portfolio-item">
+              <a class="portfolio-link" data-toggle="modal">
+                <div class="portfolio-hover">
+                  <div class="portfolio-hover-content">
+                    <i class="fas fa-plus fa-3x"></i>
+                  </div>
+                </div>
+                <img class="img-fluid" src="assets/img/portfolio/plafon2.jpeg" alt="" />
+              </a>
+              <div class="portfolio-caption">
+                <div class="portfolio-caption-heading">Project Plafon</div>
+                <div class="portfolio-caption-subheading text-muted">
+
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-4 col-sm-6 mb-4 mb-sm-0">
+            <div class="portfolio-item">
+              <a class="portfolio-link" data-toggle="modal">
+                <div class="portfolio-hover">
+                  <div class="portfolio-hover-content">
+                    <i class="fas fa-plus fa-3x"></i>
+                  </div>
+                </div>
+                <img class="img-fluid" src="assets/img/portfolio/plafon3.jpeg" alt="" />
+              </a>
+              <div class="portfolio-caption">
+                <div class="portfolio-caption-heading">Project Plafon</div>
+                <div class="portfolio-caption-subheading text-muted">
+
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-4 col-sm-6 mb-4 mb-sm-0">
+            <div class="portfolio-item">
+              <a class="portfolio-link" data-toggle="modal">
+                <div class="portfolio-hover">
+                  <div class="portfolio-hover-content">
+                    <i class="fas fa-plus fa-3x"></i>
+                  </div>
+                </div>
+                <img class="img-fluid" src="assets/img/portfolio/plafon4.jpeg" alt="" />
+              </a>
+              <div class="portfolio-caption">
+                <div class="portfolio-caption-heading">Project Plafon</div>
+                <div class="portfolio-caption-subheading text-muted">
+
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-4 col-sm-6 mb-4 mb-sm-0">
+            <div class="portfolio-item">
+              <a class="portfolio-link" data-toggle="modal">
+                <div class="portfolio-hover">
+                  <div class="portfolio-hover-content">
+                    <i class="fas fa-plus fa-3x"></i>
+                  </div>
+                </div>
+                <img class="img-fluid" src="assets/img/portfolio/plafon5.jpeg" alt="" />
+              </a>
+              <div class="portfolio-caption">
+                <div class="portfolio-caption-heading">Project Plafon</div>
+                <div class="portfolio-caption-subheading text-muted">
+
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-4 col-sm-6 mb-4 mb-sm-0">
+            <div class="portfolio-item">
+              <a class="portfolio-link" data-toggle="modal">
+                <div class="portfolio-hover">
+                  <div class="portfolio-hover-content">
+                    <i class="fas fa-plus fa-3x"></i>
+                  </div>
+                </div>
+                <img class="img-fluid" src="assets/img/portfolio/renovasi-rumah1.jpeg" alt="" />
+              </a>
+              <div class="portfolio-caption">
+                <div class="portfolio-caption-heading">Project Renovasi Rumah</div>
+                <div class="portfolio-caption-subheading text-muted">
+
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-4 col-sm-6 mb-4 mb-sm-0">
+            <div class="portfolio-item">
+              <a class="portfolio-link" data-toggle="modal">
+                <div class="portfolio-hover">
+                  <div class="portfolio-hover-content">
+                    <i class="fas fa-plus fa-3x"></i>
+                  </div>
+                </div>
+                <img class="img-fluid" src="assets/img/portfolio/renovasi-rumah2.jpeg" alt="" />
+              </a>
+              <div class="portfolio-caption">
+                <div class="portfolio-caption-heading">Project Renovasi Rumah</div>
+                <div class="portfolio-caption-subheading text-muted">
+
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-4 col-sm-6 mb-4 mb-sm-0">
+            <div class="portfolio-item">
+              <a class="portfolio-link" data-toggle="modal">
+                <div class="portfolio-hover">
+                  <div class="portfolio-hover-content">
+                    <i class="fas fa-plus fa-3x"></i>
+                  </div>
+                </div>
+                <img class="img-fluid" src="assets/img/portfolio/renovasi-rumah3.jpeg" alt="" />
+              </a>
+              <div class="portfolio-caption">
+                <div class="portfolio-caption-heading">Project Renovasi Rumah</div>
+                <div class="portfolio-caption-subheading text-muted">
+
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-4 col-sm-6 mb-4 mb-sm-0">
+            <div class="portfolio-item">
+              <a class="portfolio-link" data-toggle="modal">
+                <div class="portfolio-hover">
+                  <div class="portfolio-hover-content">
+                    <i class="fas fa-plus fa-3x"></i>
+                  </div>
+                </div>
+                <img class="img-fluid" src="assets/img/portfolio/renovasi-rumah4.jpeg" alt="" />
+              </a>
+              <div class="portfolio-caption">
+                <div class="portfolio-caption-heading">Project Renovasi Rumah</div>
+                <div class="portfolio-caption-subheading text-muted">
+
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-4 col-sm-6 mb-4 mb-sm-0">
+            <div class="portfolio-item">
+              <a class="portfolio-link" data-toggle="modal">
+                <div class="portfolio-hover">
+                  <div class="portfolio-hover-content">
+                    <i class="fas fa-plus fa-3x"></i>
+                  </div>
+                </div>
+                <img class="img-fluid" src="assets/img/portfolio/renovasi-rumah5.jpeg" alt="" />
+              </a>
+              <div class="portfolio-caption">
+                <div class="portfolio-caption-heading">Project Renovasi Rumah</div>
+                <div class="portfolio-caption-subheading text-muted">
+
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-4 col-sm-6 mb-4 mb-sm-0">
+            <div class="portfolio-item">
+              <a class="portfolio-link" data-toggle="modal">
+                <div class="portfolio-hover">
+                  <div class="portfolio-hover-content">
+                    <i class="fas fa-plus fa-3x"></i>
+                  </div>
+                </div>
+                <img class="img-fluid" src="assets/img/portfolio/renovasi-rumah6.jpeg" alt="" />
+              </a>
+              <div class="portfolio-caption">
+                <div class="portfolio-caption-heading">Project Renovasi Rumah</div>
+                <div class="portfolio-caption-subheading text-muted">
+
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-4 col-sm-6 mb-4 mb-sm-0">
+            <div class="portfolio-item">
+              <a class="portfolio-link" data-toggle="modal">
+                <div class="portfolio-hover">
+                  <div class="portfolio-hover-content">
+                    <i class="fas fa-plus fa-3x"></i>
+                  </div>
+                </div>
+                <img class="img-fluid" src="assets/img/portfolio/renovasi-rumah7.jpeg" alt="" />
+              </a>
+              <div class="portfolio-caption">
+                <div class="portfolio-caption-heading">Project Renovasi Rumah</div>
+                <div class="portfolio-caption-subheading text-muted">
+
+                </div>
+              </div>
+            </div>
+          </div>
+
+
+          <!--  -->
         </div>
       </div>
     </section>
+
 
     <!-- Portfolio Modals-->
     <!-- Modal 1-->

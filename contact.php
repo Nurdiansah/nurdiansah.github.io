@@ -3,70 +3,41 @@
       <div class="container">
         <div class="text-center">
           <h2 class="section-heading text-uppercase">Contact Us</h2>
+          <a href="tel:081299245776"><img src="assets/img/icon-telpon.png" alt=""></a>
+          <a href="https://web.whatsapp.com/send?phone=6281299245776&text=Saya%20Tertarik%20%0D%0ADengan%20Layanan%20Prima%20Jaya%20Canopy"><img src="assets/img/icon-wa.png" alt="" srcset=""></a>
           <h3 class="section-subheading text-muted">
-            Lorem ipsum dolor sit amet consectetur.
+
           </h3>
         </div>
         <form id="contactForm" name="sentMessage" novalidate="novalidate">
           <div class="row align-items-stretch mb-5">
             <div class="col-md-6">
               <div class="form-group">
-                <input
-                  class="form-control"
-                  id="name"
-                  type="text"
-                  placeholder="Your Name *"
-                  required="required"
-                  data-validation-required-message="Please enter your name."
-                />
+                <input class="form-control" id="name" type="text" placeholder="Your Name *" required="required" data-validation-required-message="Please enter your name." />
                 <p class="help-block text-danger"></p>
               </div>
               <div class="form-group">
-                <input
-                  class="form-control"
-                  id="email"
-                  type="email"
-                  placeholder="Your Email *"
-                  required="required"
-                  data-validation-required-message="Please enter your email address."
-                />
+                <input class="form-control" id="email" type="email" placeholder="Your Email *" required="required" data-validation-required-message="Please enter your email address." />
                 <p class="help-block text-danger"></p>
               </div>
               <div class="form-group mb-md-0">
-                <input
-                  class="form-control"
-                  id="phone"
-                  type="tel"
-                  placeholder="Your Phone *"
-                  required="required"
-                  data-validation-required-message="Please enter your phone number."
-                />
+                <input class="form-control" id="phone" type="tel" placeholder="Your Phone *" required="required" data-validation-required-message="Please enter your phone number." />
                 <p class="help-block text-danger"></p>
               </div>
             </div>
             <div class="col-md-6">
               <div class="form-group form-group-textarea mb-md-0">
-                <textarea
-                  class="form-control"
-                  id="message"
-                  placeholder="Your Message *"
-                  required="required"
-                  data-validation-required-message="Please enter a message."
-                ></textarea>
+                <textarea class="form-control" id="message" placeholder="Your Message *" required="required" data-validation-required-message="Please enter a message."></textarea>
                 <p class="help-block text-danger"></p>
               </div>
             </div>
           </div>
           <div class="text-center">
             <div id="success"></div>
-            <button
-              class="btn btn-primary btn-xl text-uppercase"
-              id="sendMessageButton"
-              type="submit"
-            >
+            <button class="btn btn-primary btn-xl text-uppercase" id="sendMessageButton" type="submit">
               Send Message
             </button>
           </div>
         </form>
       </div>
-    </section>    
+    </section>
