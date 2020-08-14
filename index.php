@@ -41,9 +41,9 @@
           <li class="nav-item">
             <a class="nav-link js-scroll-trigger" href="index.php?p=about">About</a>
           </li>
-          <li class="nav-item">
-            <a class="nav-link js-scroll-trigger" href="index.php?p=team">Team</a>
-          </li>
+          <!--<li class="nav-item">-->
+          <!--  <a class="nav-link js-scroll-trigger" href="index.php?p=team">Team</a>-->
+          <!--</li>-->
           <li class="nav-item">
             <a class="nav-link js-scroll-trigger" href="index.php?p=contact">Contact</a>
           </li>
@@ -75,6 +75,11 @@
           <a href="#!">Terms of Use</a>
         </div>
       </div>
+      <div class="row col-lg-4 ">Contact Us : Iwan</div>
+      <div class="row col-lg-4 ">No Telpon : 081299245776</div>
+      <div class="row col-lg-4 ">No Wa : 082111351872</div>
+      <div class="row col-lg-4 ">Email : marketing@primajayacanopy.com</div>
+      <br>
       <div class="row col-lg-4 ">Head Office : BSD CITY</div>
       <div class="row col-lg-4 ">Branch Office : Cinere Depok</div>
       <div class="row col-lg-4 ">Branch Office : Cimanggu Bogor</div>

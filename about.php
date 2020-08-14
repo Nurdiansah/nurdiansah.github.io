@@ -20,7 +20,7 @@
               </div>
               <div class="timeline-body">
                 <p class="text-muted">
-                  Prima Jaya Canopy Merupakan Spesialis pembuatan dan pemasangan Kanopi. Kami mempunyai tenaga ahli dan profesional dan tentunya sudah berpengalaman dalam membuat kanopi dengan berbagai bahan, misalnya bahan rangka kanopi baja ringan (galvalum) yang dikenal kokoh, ringan dan anti karat, bahan kayu dll.
+                  Prima Jaya Canopy Merupakan Spesialis pembuatan dan pemasangan Kanopi. Kami mempunyai tenaga ahli dan profesional dan tentunya sudah berpengalaman dalam membuat kanopi dengan berbagai bahan, misalnya bahan rangka kanopi baja ringan (galvalum) yang dikenal kokoh, ringan dan anti karat dll.
                   Untuk pemasangan, kami memiliki tim handal yang sudah berpengalaman cukup lama dalam bidang pemasangan kanopi.
                 </p>
               </div>
