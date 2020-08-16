@@ -7,7 +7,7 @@
         <div class="masthead-heading text-uppercase text-warning">
           JasA Canopy Terbaik di JABODETABEK
         </div>
-        <a class="btn btn-danger btn-xl text-uppercase js-scroll-trigger" href="https://web.whatsapp.com/send?phone=6282111351872&text=Saya%20Tertarik%20%0D%0ADengan%20Layanan%20Prima%20Jaya%20Canopy">HUBUNGI KAMI <i class="fab fa-whatsapp"></i></a>
+        <a class="btn btn-danger btn-xl text-uppercase js-scroll-trigger" href="https://wa.me/6282111351872">HUBUNGI KAMI <i class="fab fa-whatsapp"></i></a>
       </div>
     </header>
     <!-- </section> -->
@@ -21,7 +21,7 @@
           <p>Pasang kanopi baja ringan murah dan canopy berkualitas, hasil canopy baja ringan bagus. Prima Jaya Canopy memasang canopy berkualitas., pastikan Anda mempercayakan rumah ditangan yang berpengalaman dan ahli dibidangnya. Prima Jaya Canopy hadir untuk memperindah dan mempercantik Teras rumah anda.</p>
           <p class="mt-5">Prima Jaya Canopy hadir di kawasan JABODETABEK untuk menjadi JAWABAN & memberikan SOLUSI bagi ANDA yang sedang membutuhkan atau mencari jasa pemasangan canopy baja ringan BERKUALITAS. Kami melayani pesanan di seluruh wilayah JAKARTA, BOGOR, DEPOK,TANGERANG, dan BEKASI. Hubungi kami sekarang juga dan dapatkan konsultasi GRATIS! :</p>
           <a href="tel:081299245776"><img src="assets/img/icon-telpon.png" alt=""></a>
-          <a href="https://web.whatsapp.com/send?phone=6282111351872&text=Saya%20Tertarik%20%0D%0ADengan%20Layanan%20Prima%20Jaya%20Canopy"><img src="assets/img/icon-wa.png" alt="" srcset=""></a>
+          <a href="https://wa.me/6282111351872"><img src="assets/img/icon-wa.png" alt="" srcset=""></a>
         </div>
       </div>
       <!-- Slide Show -->

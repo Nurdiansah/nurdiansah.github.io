@@ -4,7 +4,7 @@
         <div class="text-center">
           <h2 class="section-heading text-uppercase">Contact Us</h2>
           <a href="tel:081299245776"><img src="assets/img/icon-telpon.png" alt=""></a>
-          <a href="https://web.whatsapp.com/send?phone=6281299245776&text=Saya%20Tertarik%20%0D%0ADengan%20Layanan%20Prima%20Jaya%20Canopy"><img src="assets/img/icon-wa.png" alt="" srcset=""></a>
+          <a href="https://wa.me/6282111351872"><img src="assets/img/icon-wa.png" alt="" srcset=""></a>
           <h3 class="section-subheading text-muted">
 
           </h3>
