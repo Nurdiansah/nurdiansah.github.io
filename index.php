@@ -60,7 +60,7 @@
 
 
   <!-- Footer-->
-  <footer class="footer py-4 ">
+  <footer class="footer py-4 bg-danger">
     <div class="container">
       <div class="row align-items-center">
         <div class="col-lg-4 text-lg-left">Copyright © PRIMA JAYA CANOPY 2020</div>
