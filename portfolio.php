@@ -16,7 +16,7 @@
                     <i class="fas fa-plus fa-3x"></i>
                   </div>
                 </div>
-                <img class="img-fluid" src="assets/img/portfolio/canopy01.jpeg" alt="" />
+                <img class="img-fluid" src="assets/img/portfolio/canopy01.png" alt="" />
               </a>
               <div class="portfolio-caption">
                 <div class="portfolio-caption-heading">Project</div>
@@ -52,7 +52,7 @@
                     <i class="fas fa-plus fa-3x"></i>
                   </div>
                 </div>
-                <img class="img-fluid" src="assets/img/portfolio/canopy03.jpeg" alt="" />
+                <img class="img-fluid" src="assets/img/portfolio/canopy03.png" alt="" />
               </a>
               <div class="portfolio-caption">
                 <div class="portfolio-caption-heading">Project 3</div>
@@ -88,7 +88,7 @@
                     <i class="fas fa-plus fa-3x"></i>
                   </div>
                 </div>
-                <img class="img-fluid" src="assets/img/portfolio/canopy17.jpeg" alt="" />
+                <img class="img-fluid" src="assets/img/portfolio/canopy17.png" alt="" />
               </a>
               <div class="portfolio-caption">
                 <div class="portfolio-caption-heading">Project 5</div>
@@ -106,7 +106,7 @@
                     <i class="fas fa-plus fa-3x"></i>
                   </div>
                 </div>
-                <img class="img-fluid" src="assets/img/portfolio/canopy06.jpeg" alt="" />
+                <img class="img-fluid" src="assets/img/portfolio/canopy06.jpg" alt="" />
               </a>
               <div class="portfolio-caption">
                 <div class="portfolio-caption-heading">Project 6</div>
@@ -124,7 +124,7 @@
                     <i class="fas fa-plus fa-3x"></i>
                   </div>
                 </div>
-                <img class="img-fluid" src="assets/img/portfolio/canopy15.jpeg" alt="" />
+                <img class="img-fluid" src="assets/img/portfolio/canopy15.png" alt="" />
               </a>
               <div class="portfolio-caption">
                 <div class="portfolio-caption-heading">Project 7</div>
@@ -178,7 +178,7 @@
                     <i class="fas fa-plus fa-3x"></i>
                   </div>
                 </div>
-                <img class="img-fluid" src="assets/img/portfolio/canopy16.jpeg" alt="" />
+                <img class="img-fluid" src="assets/img/portfolio/canopy16.png" alt="" />
               </a>
               <div class="portfolio-caption">
                 <div class="portfolio-caption-heading">Project 10</div>
@@ -196,7 +196,7 @@
                     <i class="fas fa-plus fa-3x"></i>
                   </div>
                 </div>
-                <img class="img-fluid" src="assets/img/portfolio/plafon1.jpeg" alt="" />
+                <img class="img-fluid" src="assets/img/portfolio/plafon1.png" alt="" />
               </a>
               <div class="portfolio-caption">
                 <div class="portfolio-caption-heading">Project Plafon</div>

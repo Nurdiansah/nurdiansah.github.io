@@ -48,7 +48,7 @@ function batasKata($kalimat)
                 <i class="fas fa-plus fa-3x"></i>
               </div>
             </div>
-            <img class="img-fluid" src="assets/img/portfolio/canopy01.jpeg" alt="" />
+            <img class="img-fluid" src="assets/img/portfolio/canopy01.png" alt="" />
           </a>
         </div>
       </div>
@@ -72,7 +72,7 @@ function batasKata($kalimat)
                 <i class="fas fa-plus fa-3x"></i>
               </div>
             </div>
-            <img class="img-fluid" src="assets/img/portfolio/canopy17.jpeg" alt="" />
+            <img class="img-fluid" src="assets/img/portfolio/canopy17.png" alt="" />
           </a>
         </div>
       </div>
